@@ -18,6 +18,7 @@ _Where is this JSON file located?_
 
 It can be found at [data/expenses.json](https://github.com/EMMANUELKUS/expenses-hugo/tree/master/data/expenses.json)
 
+
 _How does HUGO know how to transform JSON into markdown?_
 
 It uses the data as instructed in the template file.
